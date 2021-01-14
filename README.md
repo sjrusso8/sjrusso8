@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Hi there!](./github-banner.gif)
 <!--
 **sjrusso8/sjrusso8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
