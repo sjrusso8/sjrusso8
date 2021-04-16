@@ -1,8 +1,9 @@
 ![Hi there!](./github-banner.gif)
 
-My name is Steve Russo. I love learninga about many topics, and programming has a special place with me ever since a young age. Here is some info on me.
+My name is Steve Russo. I love learning about many topics, but programming has a special place with me. Here is some more info on what I am working on!
 
-- 🐳 I’m currently playing around with Kubernetes on AKS at [Microservices with K8s](https://github.com/sjrusso8/microservice-k8s-node), another portfolio project.
+- 🐳 I’m currently playing around with Kubernetes on AKS at [Microservices with K8s](https://github.com/sjrusso8/microservice-k8s-node)
+- 🍓 I’m attempting to deploy my own kubernetes cluster on a fleet of raspiberry pi 4s.  More on that to come!
 - 💨 I’m reviewing the nuances of Apache Airflow to pass the new certification exam by Astronomer [Airflow Certified](https://www.astronomer.io/certification/)
 - 📋 I’m looking to collaborate on any projects, and have strong experience with AWS and Azure. Feel free to contribute! 
 
