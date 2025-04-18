@@ -1,4 +1,4 @@
-## 📊 Some Stats
+## 📊 Some Stats this is a change
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=sjrusso8&show_icons=true&theme=default)
 [![Some Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjrusso8&layout=compact&theme=default&hide=jupyter%20notebook,css)](https://github.com/anuraghazra/github-readme-stats)
 
